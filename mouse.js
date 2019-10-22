@@ -1,1 +1,3 @@
-var mouse ={name:"tom",weight:0.5}
+function mouse(name){
+	this.name = name;
+}
