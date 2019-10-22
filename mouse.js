@@ -1,0 +1,1 @@
+var mouse ={name:"tom",weight:0.5}
